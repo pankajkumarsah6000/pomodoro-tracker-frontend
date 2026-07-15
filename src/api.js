@@ -1,4 +1,6 @@
-const BASE_URL = "http://localhost:5000/api";
+// const BASE_URL = "http://localhost:5000/api";
+const BASE_URL =  "https://pomodoro-tracker-backend-b8rl.onrender.com/api";
+
 const TOKEN_KEY = "embers_token";
 
 export function getToken() {
